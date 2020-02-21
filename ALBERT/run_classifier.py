@@ -164,6 +164,7 @@ def main(_):
       "qqp": classifier_utils.QqpProcessor,
       "qnli": classifier_utils.QnliProcessor,
       "wnli": classifier_utils.WnliProcessor,
+      "tweet": classifier_utils.TweetProcessor,
   }
 
   tokenization.validate_case_matches_checkpoint(FLAGS.do_lower_case,
