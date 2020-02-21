@@ -1,4 +1,4 @@
-## Russian Trolls vs Humans
+## Russian Troll Detector
 
 This project classifies Russian Fake News Trolls and Normal News Tweets, identifying the difference between them using the Russian "troll factory" twitter dataset.
 
