@@ -28,5 +28,3 @@ This project classifies Russian Fake News Trolls and Normal News Tweets, identif
     + Downloaded from https://tfhub.dev/google/albert_base/3
 - out/
     + Albert training, validation, and testing files are saved her.
-
-**** ADD other things, like ALBERT folder ... whole repo ****
